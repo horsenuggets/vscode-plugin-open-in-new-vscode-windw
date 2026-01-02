@@ -30,7 +30,7 @@
 			"explorer/context": [
 				{
 					"command": "open-file-in-new-vscode-window.openFileInNewVscodeWindow",
-					"group": "navigation"
+					"group": "navigation@100"
 				}
 			],
 			"editor/title": [
