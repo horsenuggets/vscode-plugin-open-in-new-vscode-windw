@@ -1,4 +1,11 @@
+# Build output
 *.vsix
-.vscode-test/
+
+# Dependencies
 node_modules
+
+# Editor and environment
+.vscode-test/
+
+# Project
 /TODO.md
